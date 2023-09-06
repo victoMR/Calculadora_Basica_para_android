@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">App1TI02SM22</string>
+    <string name="app_name">Suma de Numeros </string>
+    <string name="tvNum1">Primer Numero</string>
+    <string name="tvNum2">Segundo Numero</string>
+    <string name="btnSumar">Sumar</string>
 </resources>
